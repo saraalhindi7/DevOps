@@ -3,4 +3,5 @@ backgraound-color:red;
 color:#57875;
 mergin:5mm;
 left:5mm;
+right:5mm;
 }
